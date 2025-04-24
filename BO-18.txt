@@ -5,7 +5,7 @@
 {"name":"🔞挺好专享","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lndsqhj/zblive/main/tvbox-akun.json"}
 
 
-{"name":"🔞18+2🔞","url":"https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json"}
+{"name":"🔞18+2🔞","url":"https://ghfast.top/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json"}
   
 {"name":"🔞18+🔞","url":"https://d.kstore.space/download/7708/a18.json"}
 
